@@ -1,0 +1,26 @@
+{
+  "name": "小鼠机",
+  "short_name": "小鼠机",
+  "description": "小鼠机",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "https://imgbed.heliar.top/file/1778402241514_IMG_3796_20260510-163702_.PNG",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://imgbed.heliar.top/file/1778402241514_IMG_3796_20260510-163702_.PNG",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
